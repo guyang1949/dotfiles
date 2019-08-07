@@ -1,0 +1,10 @@
+
+[gtkui]
+column_widths=10,275,175,10,175,175,10,100,37,10,275,275,275,10,275
+player_height=801
+player_width=665
+player_x=2647
+player_y=46
+
+[gtkui-layout]
+item_count=0

@@ -1,0 +1,219 @@
+{
+   "checksum": "83b8cda9058a69f9b1bbfa4e1f72f3b7",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13208906284999681",
+            "id": "14",
+            "name": "",
+            "type": "url",
+            "url": "https://github.com/"
+         }, {
+            "date_added": "13209192537193840",
+            "id": "46",
+            "name": "",
+            "type": "url",
+            "url": "https://gitlab.com/"
+         }, {
+            "date_added": "13208793453666579",
+            "id": "9",
+            "name": "",
+            "type": "url",
+            "url": "https://www.baidu.com/"
+         }, {
+            "date_added": "13208879156124239",
+            "id": "11",
+            "name": "",
+            "type": "url",
+            "url": "https://manjaro.org/"
+         }, {
+            "date_added": "13208789598604044",
+            "id": "7",
+            "name": "",
+            "type": "url",
+            "url": "https://i3wm.org/"
+         }, {
+            "date_added": "13208957683717598",
+            "id": "16",
+            "name": "",
+            "type": "url",
+            "url": "https://www.bilibili.com/"
+         }, {
+            "date_added": "13208961167249403",
+            "id": "20",
+            "name": "",
+            "type": "url",
+            "url": "https://www.git-scm.com/"
+         }, {
+            "date_added": "13208961810393048",
+            "id": "21",
+            "name": "",
+            "type": "url",
+            "url": "https://mail.nwpu.edu.cn/coremail/XT3/index.jsp?sid=BAHeDkMMLGQKikHZgiMMihmllarVhtiz#"
+         }, {
+            "date_added": "13209060334850243",
+            "id": "39",
+            "name": "",
+            "type": "url",
+            "url": "https://wiki.archlinux.org/"
+         }, {
+            "date_added": "13209134337940378",
+            "id": "44",
+            "name": "",
+            "type": "url",
+            "url": "https://console.cloud.tencent.com/cvm"
+         } ],
+         "date_added": "13208788711330011",
+         "date_modified": "13209192914302675",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13208958408638868",
+               "id": "17",
+               "name": "Color Picker by WebFX – Free HTML Color Chooser",
+               "type": "url",
+               "url": "https://www.webfx.com/web-design/color-picker/"
+            }, {
+               "date_added": "13208958473885108",
+               "id": "19",
+               "name": "Free Fonts Download, Best Free Fonts, free-fonts-download.com - Part 5",
+               "type": "url",
+               "url": "http://www.free-fonts-download.com/page/5"
+            }, {
+               "date_added": "13208962743778595",
+               "id": "22",
+               "name": "Svg Vector Icons & PNG / PSD / EPS / PNM / Free Downloads - OnlineWebFonts.COM",
+               "type": "url",
+               "url": "https://www.onlinewebfonts.com/icon/"
+            }, {
+               "date_added": "13208983115105486",
+               "id": "24",
+               "name": "Cheatsheet | Font Awesome",
+               "type": "url",
+               "url": "https://fontawesome.com/cheatsheet/free/brands"
+            }, {
+               "date_added": "13209042950529720",
+               "id": "34",
+               "name": "图标库 – Font Awesome 中文网",
+               "type": "url",
+               "url": "http://www.fontawesome.com.cn/faicons/"
+            }, {
+               "date_added": "13209058958809954",
+               "id": "36",
+               "name": "Collins Online Dictionary | Definitions, Thesaurus and Translations",
+               "type": "url",
+               "url": "https://www.collinsdictionary.com/"
+            }, {
+               "date_added": "13209062544265852",
+               "id": "40",
+               "name": "linux（所有版本）下安装有道词典 - Nicoder的专栏 - CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/hejunqing14/article/details/50477029"
+            }, {
+               "date_added": "13209096248052777",
+               "id": "42",
+               "name": "codes program",
+               "type": "url",
+               "url": "https://codesprogram.com/"
+            }, {
+               "date_added": "13209576965106322",
+               "id": "54",
+               "name": "童丽 正在播放: 红豆生南国 -",
+               "type": "url",
+               "url": "http://ting.yeyulingfeng.com/"
+            } ],
+            "date_added": "13208958428245238",
+            "date_modified": "13209576968743148",
+            "id": "18",
+            "name": "tools",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13209000159757377",
+               "id": "25",
+               "name": "vim 操作命令大全",
+               "type": "url",
+               "url": "https://blog.csdn.net/u010956473/article/details/74087608"
+            } ],
+            "date_added": "13209000195972713",
+            "date_modified": "13209000674588768",
+            "id": "26",
+            "name": "documents",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13209000720399973",
+               "id": "29",
+               "name": "Manjaro | 撸Linux",
+               "type": "url",
+               "url": "https://www.lulinux.com/archives/category/manjaro-linux"
+            }, {
+               "date_added": "13209003879891604",
+               "id": "31",
+               "name": "Git教程 - 廖雪峰的官方网站",
+               "type": "url",
+               "url": "https://www.liaoxuefeng.com/wiki/896043488029600"
+            }, {
+               "date_added": "13209005317254786",
+               "id": "32",
+               "name": "EchoCow",
+               "type": "url",
+               "url": "https://echocow.cn/articles/2019/03/15/1552649977490.html"
+            }, {
+               "date_added": "13209059560925585",
+               "id": "37",
+               "name": "fish: Tutorial",
+               "type": "url",
+               "url": "https://fishshell.com/docs/current/tutorial.html"
+            }, {
+               "date_added": "13209192914302675",
+               "id": "47",
+               "name": "Arch Linux Archives - OSTechNix",
+               "type": "url",
+               "url": "https://www.ostechnix.com/category/linux_distributions/arch-linux/"
+            }, {
+               "date_added": "13209215257587126",
+               "id": "49",
+               "name": "Luke Smith's Homepage",
+               "type": "url",
+               "url": "https://lukesmith.xyz/"
+            }, {
+               "date_added": "13209222124380538",
+               "id": "51",
+               "name": "https://ranger.github.io",
+               "type": "url",
+               "url": "https://ranger.github.io/"
+            }, {
+               "date_added": "13209223889301661",
+               "id": "52",
+               "name": "Home | Vim Cheat Sheet",
+               "type": "url",
+               "url": "https://vim.rtorr.com/"
+            } ],
+            "date_added": "13209000711827291",
+            "date_modified": "13209576965106322",
+            "id": "28",
+            "name": "frum-wiki",
+            "type": "folder"
+         } ],
+         "date_added": "13208788711330076",
+         "date_modified": "13209000684986451",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13208788711330081",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

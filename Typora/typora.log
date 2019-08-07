@@ -1,0 +1,79 @@
+INFO 7/31/2019, 7:14:53 PM  cannot parse user config, use the default one
+DEBUG 7/31/2019, 7:14:53 PM  initSentry
+INFO 7/31/2019, 7:14:53 PM  luanchFromDiffVersion, pre version is undefined
+INFO 7/31/2019, 7:14:53 PM  overwriteThemeFolder
+DEBUG 7/31/2019, 7:14:53 PM  initCountly
+INFO 7/31/2019, 7:14:53 PM  ------------------start------------------
+INFO 7/31/2019, 7:14:53 PM  typora version: 0.9.72
+DEBUG 7/31/2019, 7:14:53 PM  [ '/usr/share/typora/Typora' ]
+DEBUG 7/31/2019, 7:14:53 PM  /usr/share/typora/resources/app/locales/Base.lproj/Menu.json
+ERROR 7/31/2019, 7:14:53 PM  (node:5857) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 7/31/2019, 7:14:53 PM  app.openFile
+INFO 7/31/2019, 7:14:53 PM  [focus] 1
+DEBUG 7/31/2019, 7:14:53 PM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'whitey.css' ]
+INFO 7/31/2019, 7:15:28 PM  window.File && (function(){		File.setTheme();	})();
+INFO 7/31/2019, 7:15:30 PM  window.File && (function(){		File.setTheme();	})();
+INFO 7/31/2019, 7:15:32 PM  window.File && (function(){		File.setTheme();	})();
+INFO 7/31/2019, 7:15:34 PM  window.File && (function(){		File.setTheme();	})();
+INFO 7/31/2019, 7:15:36 PM  window.File && (function(){		File.setTheme();	})();
+INFO 7/31/2019, 7:15:38 PM  window.File && (function(){		File.setTheme();	})();
+DEBUG 7/31/2019, 7:15:44 PM  app.openFile
+INFO 7/31/2019, 7:15:44 PM  addRecentDocument
+INFO 7/31/2019, 7:15:44 PM  [blur] 1
+INFO 7/31/2019, 7:15:47 PM  [focus] 1
+DEBUG 7/31/2019, 7:15:49 PM  app.openFile
+INFO 7/31/2019, 7:15:49 PM  addRecentDocument
+INFO 7/31/2019, 7:15:49 PM  [blur] 1
+INFO 7/31/2019, 7:15:50 PM  [focus] 1
+INFO 7/31/2019, 7:18:27 PM  [blur] 1
+INFO 7/31/2019, 7:18:35 PM  [focus] 1
+INFO 7/31/2019, 7:18:35 PM  [blur] 1
+INFO 7/31/2019, 7:18:59 PM  [focus] 1
+INFO 7/31/2019, 7:18:59 PM  [blur] 1
+INFO 7/31/2019, 7:19:28 PM  [focus] 1
+INFO 7/31/2019, 7:19:29 PM  [blur] 1
+INFO 7/31/2019, 7:20:05 PM  [focus] 1
+INFO 7/31/2019, 7:20:05 PM  [blur] 1
+INFO 7/31/2019, 7:20:17 PM  [focus] 1
+INFO 7/31/2019, 7:20:44 PM  [blur] 1
+INFO 7/31/2019, 7:20:49 PM  [focus] 1
+INFO 7/31/2019, 7:20:52 PM  [blur] 1
+INFO 7/31/2019, 7:20:55 PM  [focus] 1
+INFO 7/31/2019, 7:20:57 PM  [blur] 1
+INFO 7/31/2019, 7:21:00 PM  [focus] 1
+INFO 7/31/2019, 7:21:00 PM  [blur] 1
+INFO 7/31/2019, 7:21:00 PM  [focus] 1
+INFO 7/31/2019, 7:21:56 PM  window.File && (function(){		File.setTheme();	})();
+INFO 7/31/2019, 7:21:56 PM  window.File && (function(){		File.setTheme();	})();
+INFO 7/31/2019, 7:21:56 PM  window.File && (function(){		File.setTheme();	})();
+INFO 7/31/2019, 7:22:40 PM  [blur] 1
+INFO 7/31/2019, 7:22:43 PM  [focus] 1
+INFO 7/31/2019, 7:24:03 PM  [blur] 1
+INFO 7/31/2019, 7:25:40 PM  [focus] 1
+INFO 7/31/2019, 7:25:40 PM  [blur] 1
+INFO 7/31/2019, 7:25:49 PM  [focus] 1
+INFO 7/31/2019, 7:25:53 PM  [focus] 3
+INFO 7/31/2019, 7:25:53 PM  [blur] 3
+INFO 7/31/2019, 7:25:53 PM  [focus] 3
+INFO 7/31/2019, 7:25:53 PM  [blur] 3
+INFO 7/31/2019, 7:25:53 PM  [focus] 3
+INFO 7/31/2019, 7:25:58 PM  [blur] 3
+INFO 7/31/2019, 7:25:58 PM  [focus] 2
+INFO 7/31/2019, 7:25:59 PM  [blur] 2
+INFO 7/31/2019, 7:25:59 PM  [focus] 3
+INFO 7/31/2019, 7:26:01 PM  [blur] 3
+INFO 7/31/2019, 7:26:01 PM  [focus] 2
+INFO 7/31/2019, 7:26:10 PM  [blur] 2
+INFO 7/31/2019, 7:26:10 PM  [focus] 3
+INFO 7/31/2019, 7:26:28 PM  [focus] 2
+INFO 7/31/2019, 7:26:28 PM  [blur] 2
+INFO 7/31/2019, 7:26:28 PM  [focus] 2
+INFO 7/31/2019, 7:26:28 PM  [blur] 2
+INFO 7/31/2019, 7:26:28 PM  [focus] 2
+INFO 7/31/2019, 7:26:28 PM  [blur] 2
+INFO 7/31/2019, 7:26:29 PM  [focus] 2
+INFO 7/31/2019, 7:26:30 PM  ------------------quit------------------
